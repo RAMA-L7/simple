@@ -8,3 +8,4 @@ add new line in remote for knowing multiple commands
 
 
 add new line in local
+new line for knowing merging file changes in git
